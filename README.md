@@ -3,12 +3,19 @@ MinL振风标题体 Heavy
 一、基本信息
 
 字体名称：MinL振风标题体
+
 英文字体名称：MinL ZhenFeng Title
+
 字重/样式：Heavy
+
 完整名称：MinL振风标题体 Heavy
+
 PostScript 名称：MinL-ZhenFengTitle-Heavy
+
 版本号：Version 1.02
-设计者/作者：MinL
+
+设计师/作者：MinL
+
 版权标识：Copyright 2026 MinLDesignArt. Based on Source Han Sans; original copyright and SIL Open Font License notices retained.
 
 二、设计定位
